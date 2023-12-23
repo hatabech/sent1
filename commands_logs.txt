@@ -1,0 +1,5 @@
+cd
+push
+mkdir
+touch
+git commit
